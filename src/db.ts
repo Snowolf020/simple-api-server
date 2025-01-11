@@ -1,2 +1,1 @@
-// File: src/db.ts
-// Generated placeholder.
+// db module placeholder
