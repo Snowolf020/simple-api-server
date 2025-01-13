@@ -1,2 +1,1 @@
-// File: src/middleware.ts
-// Generated placeholder.
+// middleware module placeholder
