@@ -1,2 +1,1 @@
-// File: src/routes.ts
-// Generated placeholder.
+// routes module placeholder
