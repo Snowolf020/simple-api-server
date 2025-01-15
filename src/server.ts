@@ -1,2 +1,1 @@
-// File: src/server.ts
-// Generated placeholder.
+// server module placeholder
