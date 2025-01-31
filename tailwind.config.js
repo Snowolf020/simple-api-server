@@ -1,1 +1,2 @@
-// tailwind config file placeholder
+// File: tailwind.config.js
+// Generated placeholder.

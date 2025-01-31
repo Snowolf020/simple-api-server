@@ -1,1 +1,2 @@
-console.log('hello');
+// File: src/index.ts
+// Generated placeholder.

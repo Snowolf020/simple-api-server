@@ -1,1 +1,2 @@
-// postcss config file placeholder
+// File: postcss.config.js
+// Generated placeholder.
